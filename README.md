@@ -1,5 +1,4 @@
 Flutter Clean Architecture Riverpod Starter
-heba0913215554@@@   
 A production-ready Flutter starter project
 designed with Clean Architecture, Riverpod
 (Notifiers), Dio Networking, and Feature-based Modular Structure.
